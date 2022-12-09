@@ -2,11 +2,15 @@
 
 ## 前置需求
 
-> 1. 需要安裝 [PowerShell 7 / Core](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3) (Example: dotnet tool install --global PowerShell)
-> 
-> 2. 需要Visual Studio extension [Microsoft Child Process Debugging Power Tool](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftChildProcessDebuggingPowerTool2022)
+> 1. 安裝 [Dapr CLI](https://docs.dapr.io/getting-started/install-dapr-cli/)
 >
-> 3. 安裝完成後在開啟 Visual Studio 2022 :
+> 2. 初始化 [Dapr](https://docs.dapr.io/getting-started/install-dapr-selfhost/)
+>
+> 3. 需要安裝 [PowerShell 7 / Core](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3) (Example: dotnet tool install --global PowerShell)
+> 
+> 4. 需要Visual Studio extension [Microsoft Child Process Debugging Power Tool](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftChildProcessDebuggingPowerTool2022)
+>
+> 5. 安裝完成後在開啟 Visual Studio 2022 :
 >
 >>偵錯->其他偵錯目標->Child Process Debugging Settings
 >
