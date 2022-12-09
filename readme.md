@@ -6,4 +6,6 @@
 > 
 > 需要Visual Studio extension [Microsoft Child Process Debugging Power Tool](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftChildProcessDebuggingPowerTool2022)
 >
-> 安裝完成後
+> 安裝完成後在開啟 Visual Studio 2022 :
+>
+> 偵錯->其他偵錯目標->Child Process Debugging Settings
