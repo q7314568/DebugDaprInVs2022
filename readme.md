@@ -32,3 +32,6 @@
 
 
 設定完按下F5進入 Debug mode即可。
+
+
+*[參考資料](https://github.com/dapr/dotnet-sdk/issues/401#issuecomment-747563695)*
